@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeperProject</string>
+    <string name="title">Aggie Football Score Tracking</string>
+    <string name="team1">Fightin\' Texas Aggies</string>
+    <string name="team2">Opponent</string>
+    <string name="plusSix">+6</string>
+    <string name="plusThree">+3</string>
+    <string name="plusTwo">+2</string>
+    <string name="plusOne">+1</string>
+    <string name="resetButton">Reset</string>
+</resources>

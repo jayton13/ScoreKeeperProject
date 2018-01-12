@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="titleSize">25sp</dimen>
+    <dimen name="standardTextSize">15dp</dimen>
+    <dimen name="resetPadding">15dp</dimen>
+    <dimen name="scorePadding">30dp</dimen>
+</resources>
